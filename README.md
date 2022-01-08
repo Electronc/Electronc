@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Electronc
-- 👀 I’m interested in IT, Win Servers, Fron-end and Seciurity
+- 👀 I’m interested in IT, Win Servers, Front-end and Seciurity
 - 🌱 I’m currently learning Angular, Electron, 
 - 📫 How to reach me
 
